@@ -1,0 +1,23 @@
+label {
+    display: block;
+
+}
+
+#content {
+    font-size: 40px;
+    text-align: center;
+}
+
+#name {
+    height: 7%;
+    width: 40%;
+    font-size: 50px;
+}
+
+#send {
+    text-align: center;
+    height: 7%;
+    width: 100%;
+    display: block;
+    margin-right: 50%;
+}
